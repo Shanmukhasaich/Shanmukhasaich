@@ -1,117 +1,104 @@
-<div align="center">
-  <h1>👋 Hi, I'm Chakiri Shanmukha Sai</h1>
-  <h3>B.Tech CSE (AI & Intelligent Process Automation) | KL University '25</h3>
+👋 Hi, I'm Chakiri Shanmukha Sai
 
-  <p>
-    <strong>AI/ML Enthusiast</strong> | <strong>Full-Stack Developer</strong> | <strong>RPA Specialist</strong>
-  </p>
+💻 AI/ML Enthusiast | 🌐 Full-Stack Developer | 🤖 Intelligent Process Automation
 
-  <a href="https://www.linkedin.com/in/shanmukhasai-chakiri-663369214/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:shanmukhasaic@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/Shanmukhasaich">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+🚀 About Me
+💻 Passionate Software Developer focused on building intelligent AI-powered applications.
+🎓 Computer Science Graduate (B.Tech CSE - AI & IPA)
+🌱 Currently learning MLOps, Docker, Kubernetes and Cloud Deployment
+☁️ AWS Cloud Practitioner
+🎯 Looking for AI/ML | Full-Stack | Software Development Opportunities
+📍 Vijayawada, India
 
----
+🛠 Tech Stack
 
-## 🚀 About Me
+Languages
+Python • Java • JavaScript • HTML5 • CSS3
 
-Passionate **Computer Science & Engineering** graduate (2025) specializing in **Artificial Intelligence**, **Machine Learning**, and **Intelligent Process Automation**. 
+Frontend
+HTML5 • CSS3 • JavaScript • Streamlit
 
-I love turning complex problems into intelligent, scalable solutions. With strong expertise in AI/ML, full-stack development, and automation, I'm always eager to build impactful real-world applications.
+Backend
+FastAPI • Python • REST APIs
 
-- 🔭 Currently building AI-powered systems and modern web applications
-- 🌱 Deep diving into **MLOps, Docker, Kubernetes & Cloud Deployment**
-- 💡 Open to **AI/ML Engineer**, **Full-Stack Developer**, and **Software Engineer** roles
-- 📍 Based in **Vijayawada, India**
+Database
+MySQL • PostgreSQL • SQLite
 
----
+AI/ML
+TensorFlow • Scikit-learn • OpenCV • Pandas • NLP • Computer Vision
 
-## 🛠 Tech Stack
+Cloud & Tools
+AWS • Git • GitHub • Automation Anywhere • Jupyter Notebook
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+🚀 Featured Projects
 
-**AI & Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-FF9A00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+🍿 AI Movie Recommendation System
+Content-based Movie Recommendation Engine with beautiful web interface.
 
-**Backend & Frontend**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Features
+• 🎥 Cosine Similarity based Recommendations
+• 🔍 TMDB API Integration
+• 🖥 Streamlit Web Application
+• 📊 Data Processing with Pandas & Scikit-learn
 
-**Databases & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+🔗 Repository
+https://github.com/Shanmukhasaich/AI-Movie-Recommendation-System
 
-**Tools**  
-Git • Docker • Streamlit • Automation Anywhere • Jupyter
+💪 Workout Tracker
+Full-Stack Workout Management Application with authentication.
 
----
+Features
+• 🔐 JWT Authentication
+• 🏋️ Workout CRUD Operations
+• 🗄 SQLite Database
+• 🌐 FastAPI Backend + Modern Frontend
+• 📱 Responsive UI
 
-## 🔥 Featured Projects
+🔗 Repository
+https://github.com/Shanmukhasaich/workout-tracker-api
 
-### [VisualRAG](https://github.com/Shanmukhasaich/VisualRAG) ⭐
-**AI-Powered Visual Document Understanding System**  
-Upload document images → OCR → Vector Search → Smart Q&A using LLMs.  
-**Tech**: Python, Tesseract OCR, Sentence Transformers, pgvector, PostgreSQL, Streamlit, OpenRouter
+📄 VisualRAG
+AI-Powered Visual Document Understanding System using OCR + RAG.
 
-### [Workout Tracker](https://github.com/Shanmukhasaich/workout-tracker-api)
-**Full-Stack Workout Management Platform**  
-Complete JWT-authenticated application with FastAPI backend and responsive frontend.  
-**Tech**: FastAPI, SQLAlchemy, SQLite, JWT, HTML/CSS/JavaScript
+Features
+• 📸 OCR Text Extraction (Tesseract)
+• 🔎 Vector Search & Embeddings
+• 💬 AI Question Answering with LLMs
+• 🧠 PostgreSQL + pgvector
+• 🎨 Interactive Streamlit Interface
 
-### [AI Movie Recommendation System](https://github.com/Shanmukhasaich/AI-Movie-Recommendation-System)
-**Intelligent Movie Recommender**  
-Content-based recommendation engine with beautiful Streamlit interface.  
-**Tech**: Python, Scikit-learn, Pandas, Cosine Similarity, TMDB API, Streamlit
+🔗 Repository
+https://github.com/Shanmukhasaich/VisualRAG
 
----
+📊 GitHub Activity
 
-## 🎓 Education
+📜 Certifications
+🏅 Google TensorFlow Developer Certificate
+🏅 AI & Machine Learning using Python - Level 2
+🏅 Automation Anywhere Certified Essentials RPA Professional
+🏅 Aviatrix Certified Engineer - Multicloud Network Associate
 
-- **B.Tech in Computer Science & Engineering (AI & IPA)**  
-  KL University, Vijayawada | 2021 – 2025 | **CGPA: 8.69/10**
+📚 Currently Learning
+• Docker
+• DevOps
+• CI/CD
+• Kubernetes
+• Advanced MLOps
+• System Design
 
-- **Bachelor of Business Management (Dual Degree)**  
-  KL Business School | 2022 – 2025 | **CGPA: 7.60/10**
+🌟 Goals for 2026
+✅ Build impactful AI & Full-Stack Projects
+✅ Strengthen Data Structures & Algorithms
+✅ Master DevOps and Cloud Deployment
+✅ Contribute to Open Source
+✅ Secure a Software Developer / AI Engineer Role
 
----
+📫 Connect With Me
 
-## 🏆 Certifications
-
-- **Google TensorFlow Developer Certificate** (Apr 2024 – Apr 2027)
-- AI & Machine Learning using Python – Level 2
-- Automation Anywhere Certified RPA Professional
-- Aviatrix Certified Engineer – Multicloud Network Associate
-
----
-
-## 🌟 Goals for 2026
-
-- Build production-ready AI applications
-- Master MLOps and Cloud-Native Development
-- Contribute actively to Open Source
-- Secure a challenging role in AI/ML or Software Development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukhasai-chakiri-663369214/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shanmukhasaich)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmukhasaic@gmail.com)
 
 ---
 
-<div align="center">
-
-**Thank you for visiting my profile!** ✨
-
-I'm always excited to connect and collaborate on innovative projects.
-
-[**Let's Connect!**](https://www.linkedin.com/in/shanmukhasai-chakiri-663369214/)
-
-</div>
+⭐ Thank you for visiting my GitHub profile!
