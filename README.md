@@ -23,7 +23,6 @@ Skilled in building end-to-end AI solutions, full-stack web applications, and in
 ## 🛠 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,7 +40,6 @@ Skilled in building end-to-end AI solutions, full-stack web applications, and in
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 Automation Anywhere | Streamlit | Jupyter
 
 ---
@@ -50,22 +48,21 @@ Automation Anywhere | Streamlit | Jupyter
 
 ### [VisualRAG](https://github.com/Shanmukhasaich/VisualRAG)
 **AI-Powered Visual Document Understanding System**  
-- OCR + Vector Search (RAG) + LLMs for intelligent document QA  
-- Technologies: Python, Tesseract OCR, Sentence Transformers, PostgreSQL + pgvector, Streamlit, OpenRouter LLM
+OCR + Vector Search (RAG) + LLMs for intelligent document question answering.  
+**Tech**: Python, Tesseract OCR, Sentence Transformers, PostgreSQL + pgvector, Streamlit
 
 ### [Workout Tracker](https://github.com/Shanmukhasaich/workout-tracker-api)
 **Full-Stack Workout Management Application**  
-- FastAPI backend + HTML/CSS/JS frontend with JWT Authentication  
-- Features: User auth, workout CRUD, SQLite database  
-- Technologies: FastAPI, SQLAlchemy, JWT, Vanilla JS
+JWT Authentication, workout CRUD operations with FastAPI backend and modern frontend.  
+**Tech**: FastAPI, SQLAlchemy, SQLite, JWT, HTML/CSS/JavaScript
 
 ### [AI Movie Recommendation System](https://github.com/Shanmukhasaich/AI-Movie-Recommendation-System)
 **Content-based Movie Recommender**  
-- Cosine similarity + Streamlit web app  
-- Technologies: Python, Scikit-learn, Pandas, Streamlit
+Built with cosine similarity and deployed as a Streamlit web app.  
+**Tech**: Python, Scikit-learn, Pandas, Streamlit, TMDB API
 
-### [Portfolio](https://github.com/Shanmukhasaich/portfolio1)
-Modern responsive portfolio website
+### [MyResume](https://github.com/Shanmukhasaich/MyResume)
+Personal resume repository and portfolio-related assets.
 
 ---
 
@@ -74,7 +71,7 @@ Modern responsive portfolio website
 **B.Tech — Computer Science & Engineering (AI & Intelligent Process Automation)**  
 KL University, Vijayawada | 2021 – 2025 | **CGPA: 8.69/10.0**
 
-**Bachelor of Business Management (OL - Dual Degree)**  
+**Bachelor of Business Management (Dual Degree)**  
 KL Business School | 2022 – 2025 | **CGPA: 7.60/10.0**
 
 ---
@@ -90,7 +87,7 @@ KL Business School | 2022 – 2025 | **CGPA: 7.60/10.0**
 
 ## 📈 Currently Learning
 
-- Advanced MLOps & Docker
+- MLOps & Docker
 - Kubernetes & CI/CD
 - System Design
 - Cloud Deployment (AWS)
@@ -99,10 +96,10 @@ KL Business School | 2022 – 2025 | **CGPA: 7.60/10.0**
 
 ## 🌟 Goals for 2026
 
-- [ ] Build more impactful AI & Full-Stack projects
-- [ ] Contribute to Open Source
-- [ ] Strengthen Data Structures & Algorithms
-- [ ] Secure a Software Developer / AI Engineer role
+- Build more impactful AI & Full-Stack projects
+- Contribute to Open Source
+- Strengthen DSA skills
+- Secure a Software Developer / AI Engineer role
 
 ---
 
@@ -114,6 +111,5 @@ KL Business School | 2022 – 2025 | **CGPA: 7.60/10.0**
 
 ---
 
-**Thank you for visiting my GitHub profile!** ✨
-
-*Looking forward to connecting and collaborating on exciting projects.*
+**Thank you for visiting my GitHub profile!** ✨  
+*Open to collaboration and new opportunities.*
